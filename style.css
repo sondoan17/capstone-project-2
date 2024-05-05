@@ -1,29 +1,29 @@
-.header{
-    background-color: FFF9D0;
+.header {
+  background-color: FFF9D0;
 }
-.portfolio{
-    background-color: CAF4FF;
+.portfolio {
+  background-color: CAF4FF;
 }
-.masthead-avatar{
-    width: 15rem;
+.masthead-avatar {
+  width: 15rem;
 }
-.project-link{
-    text-decoration: none;
-    color: black;
+.project-link {
+  text-decoration: none;
+  color: black;
 }
-.about-bg{
-    background-color: A0DEFF;
+.about-bg {
+  background-color: A0DEFF;
 }
-.contact{
-    background-color: 5AB2FF;
+.contact {
+  background-color: 5AB2FF;
 }
 .source-code-pro {
-    font-family: "Source Code Pro", monospace;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-  }
-.project-img{
-    border-top-left-radius: 0.375rem;;
-    border-top-right-radius: 0.375rem;;
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.project-img {
+  border-top-left-radius: 0.375rem;
+  border-top-right-radius: 0.375rem;
 }
