@@ -1,0 +1,19 @@
+.header{
+    background-color: FFF9D0;
+}
+.portfolio{
+    background-color: CAF4FF;
+}
+.masthead-avatar{
+    width: 15rem;
+}
+.project-link{
+    text-decoration: none;
+    color: black;
+}
+.about-bg{
+    background-color: A0DEFF;
+}
+.contact{
+    background-color: 5AB2FF;
+}
